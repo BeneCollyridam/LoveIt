@@ -1,0 +1,198 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Tilbage til toppen"
+
+[viewComments]
+other = "Vis kommentarer"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Indlæg"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Alle {{ .Some }}"
+
+[tag]
+other = "Tag"
+
+[tags]
+other = "Tags"
+
+[category]
+other = "Kategori"
+
+[categories]
+other = "Kategorier"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Flere"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Vælg sprog"
+
+[switchTheme]
+other = "Skift tema"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Drevet af {{ .Hugo }} | Theme - {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "da"
+
+[valinePlaceholder]
+other = "Din kommentar ..."
+
+[facebookLanguageCode]
+other = "da_DK"
+
+[giscusLang]
+other = "da"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Søg"
+
+[searchPlaceholder]
+other = "Søg på titler eller indhold..."
+
+[clear]
+other = "Ryd"
+
+[cancel]
+other = "Annuler"
+
+[noResultsFound]
+other = "Ingen resultater fundet"
+
+[lunrLanguageCode]
+other = "da"
+
+[copyToClipboard]
+other = "Kopier til udklipsholder"
+
+[cookieconsentMessage]
+other = "Dette website bruger cookies for at forbedre din oplevelse."
+
+[cookieconsentDismiss]
+other = "Forstået!"
+
+[cookieconsentLink]
+other = "Læs mere"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Del på"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Indhold"
+
+[publishedOnDate]
+other = "offentliggjort {{ .Date }}"
+
+[includedInCategories]
+other = "inkluderet i {{ .Categories }}"
+
+[wordCount]
+one = "Et ord"
+other = "{{ .Count }} ord"
+
+[readingTime]
+one = "Et minut"
+other = "{{ .Count }} minutter"
+
+[views]
+other = "visninger"
+
+[author]
+other = "Forfatter"
+
+[updatedOnDate]
+other = "Opdateret {{ .Date }}"
+
+[readMarkdown]
+other = "Vis kildekode"
+
+[back]
+other = "Tilbage"
+
+[home]
+other = "Hjem"
+
+[readMore]
+other = "Læs mere"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Side ikke fundet"
+
+[pageNotFoundText]
+other = "Siden du leder efter eksisterer ikke. Undskyld."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Note"
+
+[abstract]
+other = "Abstrakt"
+
+[info]
+other = "Info"
+
+[tip]
+other = "Tip"
+
+[success]
+other = "Success"
+
+[question]
+other = "Spørgsmål"
+
+[warning]
+other = "Advarsel"
+
+[failure]
+other = "Fejl"
+
+[danger]
+other = "Fare"
+
+[bug]
+other = "Fejl"
+
+[example]
+other = "Eksempel"
+
+[quote]
+other = "Citat"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NY"
+
+[changed]
+other = "ÆNDRET"
+
+[deleted]
+other = "SLETTET"
+# === shortcodes/version.html ===
